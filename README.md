@@ -119,14 +119,14 @@ Some features that can be added in future versions:
 Add screenshots of your application here:
 
 ```markdown
-![AssistMe Screenshot]("./public/Screenshot.png")
+![AssistMe Screenshot](./public/Screenshot.png)
 ```
 
 ## 🌐 Live Demo
 
 Add your deployed project link here:
 
-```text
+```
 https://chaudharysachinraj.github.io/Chatbot/
 ```
 
