@@ -114,21 +114,29 @@ Some features that can be added in future versions:
 * 🔐 User authentication
 * 🗄️ Database-based chat history
 
+---
+
 ## 📸 Screenshots
 
 Add screenshots of your application here:
 
 ![AssistMe Screenshot](./public/Screenshot.png)
 
+---
+
 ## 🌐 Live Demo
 
 [View Live Demo](https://chaudharysachinraj.github.io/Chatbot/)
+
+---
 
 ## 👨‍💻 Author
 
 **Sachin Chaudhary**
 
 * GitHub: `@chaudharysachinraj`
+
+---
 
 ## ⭐ Support
 
