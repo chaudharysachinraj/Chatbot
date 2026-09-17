@@ -118,17 +118,13 @@ Some features that can be added in future versions:
 
 Add screenshots of your application here:
 
-```markdown
-![AssistMe Screenshot](public/Screenshot.png)
-```
+![AssistMe Screenshot](./public/Screenshot.png)
 
 ## 🌐 Live Demo
 
 Add your deployed project link here:
 
-```
-https://chaudharysachinraj.github.io/Chatbot/
-```
+[View Live Demo](https://chaudharysachinraj.github.io/Chatbot/)
 
 ## 👨‍💻 Author
 
