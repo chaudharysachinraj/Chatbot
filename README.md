@@ -2,6 +2,8 @@
 
 AssistMe is a modern AI-powered chatbot built with **React.js**, **Tailwind CSS**, and the **Google Gemini API**. It allows users to ask questions and receive AI-generated responses through a simple and clean chat interface.
 
+---
+
 ## 🚀 Features
 
 * 🤖 AI-powered responses using Google Gemini API
