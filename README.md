@@ -122,8 +122,6 @@ Add screenshots of your application here:
 
 ## 🌐 Live Demo
 
-Add your deployed project link here:
-
 [View Live Demo](https://chaudharysachinraj.github.io/Chatbot/)
 
 ## 👨‍💻 Author
