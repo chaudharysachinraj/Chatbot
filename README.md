@@ -14,6 +14,9 @@ AssistMe is a modern AI-powered chatbot built with **React.js**, **Tailwind CSS*
 * ⌨️ Send messages directly from the input field
 * 🔐 API key stored securely using environment variables
 
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -28,6 +31,8 @@ AssistMe is a modern AI-powered chatbot built with **React.js**, **Tailwind CSS*
 
 * Google Gemini API
 * `@google/genai`
+
+---
 
 ## 📂 Project Structure
 
@@ -48,6 +53,8 @@ AssistMe/
 ├── package-lock.json
 └── README.md
 ```
+
+---
 
 ## ⚙️ Installation & Setup
 
@@ -88,6 +95,8 @@ npm run dev
 The application will start on your local development server.
 
 
+---
+
 ## 💡 How It Works
 
 1. User enters a question in the chat input.
@@ -97,6 +106,8 @@ The application will start on your local development server.
 5. The user message and AI response are stored in React state.
 6. The chat interface displays the conversation.
 
+
+---
 
 ## 🎯 Future Improvements
 
@@ -114,19 +125,21 @@ Some features that can be added in future versions:
 * 🔐 User authentication
 * 🗄️ Database-based chat history
 
+
 ---
 
 ## 📸 Screenshots
 
-Add screenshots of your application here:
 
 ![AssistMe Screenshot](./public/Screenshot.png)
+
 
 ---
 
 ## 🌐 Live Demo
 
 [View Live Demo](https://chaudharysachinraj.github.io/Chatbot/)
+
 
 ---
 
@@ -136,11 +149,13 @@ Add screenshots of your application here:
 
 * GitHub: `@chaudharysachinraj`
 
+
 ---
 
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
+
 
 ---
 
